@@ -1,0 +1,192 @@
+@media (min-width: 320px) and (max-width: 480px){
+    body{
+        font-size: 14px;
+    }
+    .slider{
+        height: auto !important; 
+    }
+    .bt_bb_port{
+        padding-top: 3em !important;
+        padding-bottom: 5em !important;
+    }
+    .banner-content{
+        width: 100%;
+    }
+    h1.banner-heading{
+        font-size: 28px;
+        padding-top: 15px;
+    }
+    .text-thumbnail.text-center.bg-secondary.color-white.color-white-a {
+        margin-bottom: 15px;
+    }
+    .course_home {
+        width: 50%;
+    }
+    .student_slider{
+        height: auto;
+    }
+    .student_img img{
+        height: auto;
+    }
+    .course_home .property-item-type-2, .agent-profile {
+        margin: 15px 0 0 0 !important;
+    }
+    .course_home .property-item-type-2.bg-white.py-40.px-30.flat-medium.icon-primary.text-center.shadow.hover-secondery-primary {
+        padding: 15px;
+    }
+    .property-item.wow.animated.slideInDown {
+        margin-bottom: 15px;
+    }
+    .property-item.wow.animated.slideInUp {
+        margin-bottom: 15px;
+    }
+    .video_feature {
+        padding: 0;
+    }
+    a.view-more-btn{
+        margin: 25px auto 35px;
+    }
+    .table_logo img{
+        width: 25%;
+    }
+    table.table.cus_table td, table.table.cus_table th{
+        font-size: 12px;
+    }
+    p.tab_para{
+        font-size: 14px;
+    }
+    .footer-logo{
+        padding-bottom: 80px;
+    }
+    .footer-cus-pb p{
+        font-size: 14px;
+    }
+    .footer-logo .text-area.mt-30{
+        width: 100%;
+    }
+    .mob-view-none{
+        display: none;
+    }
+    section.featured-properties{
+        padding: 50px;
+    }
+    /*about*/
+    .page-banner{
+        background-size: cover;
+        padding: 0 0px 40px !important;
+    }
+    .right-image img{
+        width: 100%;
+        float: none;
+    }
+    .course-con{
+        margin: 15px 0;
+    }
+    .girl-image img {
+        width: 100%;
+    }
+    .side-title {
+        padding-top: 30px;
+    }
+    .ratnesh1 {
+        width: 100%;
+    }
+    h2.title{
+        line-height: 30px;
+    }
+    /*course*/
+    .left_image {
+        padding: 0;
+    }
+    .bg_small_image{
+        display: none;
+    }
+    .ptb-10em{
+        padding: 30px 0 0 0;
+    }
+    .bb_port_padding{
+        padding-top: 2em;
+        padding-bottom: 0;
+    }
+    .course_head h3{
+        font-size: 16px;
+    }
+    .course_bight p {
+        font-size: 14px;
+    }
+    .course_con {
+        margin-top: 0px;
+        margin-bottom: 15px;
+    }
+    .how_it_work {
+        padding-top: 30px;
+    }
+    .inner_page_side_title {
+        text-align: center;
+    }
+    .inner_page_side_title .line-primary:after{
+        position: relative;
+    }
+    h1.page-banner-title{
+        font-size: 35px;
+        line-height: 1.2;
+    }
+    .social-media-2 li a{
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+    /*faculty*/
+    .team {
+        padding: 0;
+    }
+    .side-title.team_content {
+        margin: 0;
+        text-align: center;
+        padding-bottom: 30px;
+    }
+    .mob_views{
+        display: block;
+    }
+    .desktop_views{
+        display: none;
+    }
+    /*contact*/
+    .list-inline-wrapper .list--inline li{
+        display: block !important;
+        text-align: center;
+        margin-bottom: 20px;
+        flex: inherit;
+        width: 100%;
+    }
+    .list-inline-wrapper .list--inline li .icon{
+        margin: 0 auto;
+    }
+    .list-inline-wrapper .list--inline li .contents h6 {
+        margin: 0;
+        font-size: 15px;
+    }
+    .contact_form{
+        background: #f8f8f8;
+    }
+    .divider.divider-simple.text-left h3 {
+        padding-bottom: 15px;
+    }
+    .google_map {
+        padding-top: 30px;
+    }
+    .mapouter{
+        width: 100% !important;
+    }
+    .gmap_canvas{
+        width: 100% !important;
+    }
+    /*video*/
+    section.vidoes .property-item.wow.animated.slideInDown {
+        margin-bottom: 15px;
+    }
+    section.vidoes {
+        padding: 80px 0 80px 0;
+    }
+}
+
